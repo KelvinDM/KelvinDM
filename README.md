@@ -21,7 +21,6 @@
   <a href = "mailto:kelvindaniel1932@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kelvin-daniel-85bb19233" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  
-  ![Snake animation](https://github.com/KelvinDM/KelvinDM/blob/output/github-contribution-grid-snake.sv
+![Snake animation](https://github.com/KelvinDM/KelvinDM/blob/output/github-contribution-grid-snake.sv
  
 </div>
